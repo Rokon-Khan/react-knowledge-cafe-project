@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       
-      <h1 className='text-5xl font-bold'>React Knowledge Cafe Project</h1>
+      <h1 className='text-5xl font-bold bg-green-400'>React Knowledge Cafe Project</h1>
       
       
     </>
